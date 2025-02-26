@@ -1,0 +1,42 @@
+{
+    "teachers": [
+      { "id": 1, "name": "Alice Johnson", "subject": "Mathematics" },
+      { "id": 2, "name": "Bob Smith", "subject": "Physics" },
+      { "id": 3, "name": "Charlie Davis", "subject": "Chemistry" },
+      { "id": 4, "name": "Diana Lee", "subject": "English" },
+      { "id": 5, "name": "Ethan Wilson", "subject": "Computer Science" }
+    ],
+    "students": [
+      { "id": 1, "name": "Student A", "teacherId": 1 },
+      { "id": 2, "name": "Student B", "teacherId": 1 },
+      { "id": 3, "name": "Student C", "teacherId": 2 },
+      { "id": 4, "name": "Student D", "teacherId": 2 },
+      { "id": 5, "name": "Student E", "teacherId": 3 },
+      { "id": 6, "name": "Student F", "teacherId": 3 },
+      { "id": 7, "name": "Student G", "teacherId": 4 },
+      { "id": 8, "name": "Student H", "teacherId": 4 },
+      { "id": 9, "name": "Student I", "teacherId": 5 },
+      { "id": 10, "name": "Student J", "teacherId": 5 },
+      { "id": 11, "name": "Student K", "teacherId": 1 },
+      { "id": 12, "name": "Student L", "teacherId": 1 },
+      { "id": 13, "name": "Student M", "teacherId": 2 },
+      { "id": 14, "name": "Student N", "teacherId": 2 },
+      { "id": 15, "name": "Student O", "teacherId": 3 },
+      { "id": 16, "name": "Student P", "teacherId": 3 },
+      { "id": 17, "name": "Student Q", "teacherId": 4 },
+      { "id": 18, "name": "Student R", "teacherId": 4 },
+      { "id": 19, "name": "Student S", "teacherId": 5 },
+      { "id": 20, "name": "Student T", "teacherId": 5 },
+      { "id": 21, "name": "Student U", "teacherId": 1 },
+      { "id": 22, "name": "Student V", "teacherId": 2 },
+      { "id": 23, "name": "Student W", "teacherId": 3 },
+      { "id": 24, "name": "Student X", "teacherId": 4 },
+      { "id": 25, "name": "Student Y", "teacherId": 5 },
+      { "id": 26, "name": "Student Z", "teacherId": 1 },
+      { "id": 27, "name": "Student AA", "teacherId": 2 },
+      { "id": 28, "name": "Student BB", "teacherId": 3 },
+      { "id": 29, "name": "Student CC", "teacherId": 4 },
+      { "id": 30, "name": "Student DD", "teacherId": 5 }
+    ]
+  }
+  
